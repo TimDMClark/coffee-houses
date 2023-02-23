@@ -1,0 +1,23 @@
+ .list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.shop {
+    flex-basis: 20%;
+    border: 1px dotted black;
+    padding-right: 7em;
+    margin-left: .2%;
+    margin-right: .2%;
+    text-align: left;
+}
+
+
+.pageHeader {
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 2%;
+    font-size:350%;
+    text-decoration: underline;
+}
